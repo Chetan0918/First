@@ -1,3 +1,3 @@
 print("aaaaa")
 print("a")
-if
+print("b")
